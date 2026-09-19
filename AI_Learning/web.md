@@ -9,3 +9,6 @@
 
 
 ![alt text](image.png)
+
+
+把项目部署到github，测试git push再github上的操作
